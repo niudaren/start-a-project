@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<title>中国创新挑战赛</title>
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- CSS Files -->
+
+<link rel="stylesheet" href="css/animate.min.css" />
+<link rel="stylesheet" href="css/bootstrap.css" />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="css/flexslider.css" />
+<link rel="stylesheet" href="css/magenta.css" />
+<link rel="stylesheet" href="css/flexslider-magenta.css" />
+<link rel="stylesheet" href="css/prettyPhoto.css" />
+<link rel="stylesheet" href="css/responsive.css" />
+
+<!-- End CSS Files -->
+</head>
+
+<body data-spy="scroll" data-target=".nav-menu" data-offset="50">
+
+<SCRIPT src="js/piao.js" type=text/javascript></SCRIPT>
+<DIV id=Div2 style="Z-INDEX: 200000; POSITION: absolute"><img src="images/tzgg116.jpg" border="0" /></DIV>
+<SCRIPT type=text/javascript>
+    var ad1=new AdMove("Div2");
+        ad1.Run();
+</SCRIPT>
+
+<div id="pageloader">
+  <div class="loader"> <img src="images/load.gif" alt='loader' /> </div>
+</div>
+
+<!-- Home Section -->
+<section id="home" class="nav-link">
+
+  <!-- Slider -->
+  <div id="slides">
+    <div class="slides-container">
+
+      <!-- Slider Images -->
+      <div class="image1 pattern"></div>
+      <div class="image2 pattern"></div>
+      <div class="image3 pattern"></div>
+      <div class="image4 pattern"></div>
+      <!-- End Slider Images -->
+
+    </div>
+
+    <!-- Slider Controls -->
+
+    <nav class="slides-navigation"> <a href="#" class="next"></a> <a href="#" class="prev"></a> </nav>
+
+    <!-- End Slider Controls -->
+
+  </div>
+  <!-- End Slider Images -->
+
+  <!-- Main - Text Slide -->
+  <div class=" main">
+    <!-- Text Slider -->
+    <div id="main" class="flexslider home-slider">
+
+      <!-- Text Slides
+				<ul class="home-slides">
+					<li>0 <span>0</span></li>
+					<li>0 <span>0</span></li>
+					<li>0 <span>0</span></li>
+				</ul>
+				 End Text Slides -->
+
+      <div class="clear"></div>
+    </div>
+
+    <!-- Home Description -->
+    <div class="home-p">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <!-- End Home Description -->
+
+    <!-- BAOMIN -->
+    <a class="scroll baom-ready" href="http://innowin.chinatorch.gov.cn/challenge/login.shtml" target="_blank"">开始挑战</a>
+    <!-- End BAOMIN -->
+
+    <!-- Home Button -->
+    <a class="scroll button-ready" href="#about">∨</a>
+    <!-- End Home Button -->
+  </div>
+  <!-- End Main -->
+
+</section>
+<!-- End Home Section -->
+
+<!-- Navigation Section -->
+<section id="navigation">
+  <div class="inner navigation">
+
+    <!-- Logo -->
+    <div class="logo"> <a class="scroll" href="#home"><img src="images/logo.png" alt="Logo" /></a> </div>
+
+    <!-- Nav Menu -->
+    <nav class="nav-menu">
+      <ul class="nav main-nav">
+        <li class="active"><a class="scroll" href="#home">首页</a></li>
+        <li><a class="scroll" href="#about">关于大赛</a></li>
+        <li><a class="scroll" href="#services">需求公告</a></li>
+        <li><a class="scroll" href="#blog">最新动态</a></li>
+        <li><a class="scroll" href="#portfolio">大赛花絮</a></li>
+        <li><a class="scroll" href="#contact">创新地图</a></li>
+        <li><a class="scroll" href="http://innowin.chinatorch.gov.cn/challenge/login.shtml" target="_blank">注册报名</a></li>
+      </ul>
+    </nav>
+
+    <!-- Dropdown Menu For Mobile Devices-->
+    <nav class="dropdown mobile-drop"> <a data-toggle="dropdown" class="mobile-menu" href="#"><i class="fa fa-bars"></i></a>
+      <ul class="nav dropdown-menu fullwidth" role="menu">
+        <li><a class="scroll" href="#home">首页</a></li>
+        <li><a class="scroll" href="#about">关于大赛</a></li>
+        <li><a class="scroll" href="#services">需求公告</a></li>
+        <li><a class="scroll" href="#portfolio">最新动态</a></li>
+        <li><a class="scroll" href="#services">大赛花絮</a></li>
+        <li><a class="scroll" href="#prices">创新地图</a></li>
+        <li><a class="scroll" href="http://innowin.chinatorch.gov.cn/challenge/login.shtml" target="_blank">注册报名</a></li>
+      </ul>
+    </nav>
+  </div>
+</section>
+<!-- End Navigation Section -->
+
+<!-- About Section -->
+<section id="about" class="contain nav-link">
+  <div class="about inner">
+    <div class="header animated" data-animation="slideInRight" data-animation-delay="0"> 关于大赛 </div>
+
+    <!-- Second Header -->
+    <!-- 				<div class="description animated" data-animation="slideInLeft" data-animation-delay="0">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</div> -->
+    <div class="row">
+      <div class="col-lg-4 col-md-4 animated" data-animation="tada" data-animation-delay="0">
+        <!-- 								<div class="bubble_outer_one">
+									<div class="bubble_container">
+										<div class="bubble"></div>
+										<i class="fa fa-thumbs-up"></i>
+									</div>
+								</div> -->
+        <div class="about_line"></div>
+        <h2 style="text-align: center;font-weight: bold;font-size: 23px; font-family:'宋体';">目的意义</h2>
+        <article class='about_article' style="background-color:rgba(24,101,169,0.28); height:200px;">
+          <div style="padding-left:90px; padding-top:15px;">
+            <p>寻找民间高手，征集解决方案。</p>
+            <p>助力创新创造，优化支持体系。</p>
+            <p>促进跨界创新，完善创新机制。</p>
+            <p>激发创新潜能，推动众包服务。</p>
+          </div>
+        </article>
+      </div>
+      <div class="col-lg-4 col-md-4 animated" data-animation="tada" data-animation-delay="500">
+        <!-- 								<div class="bubble_outer_two">
+									<div class="bubble_container">
+										<div class="bubble"></div>
+										<i class="fa fa-envelope fa-light"></i>
+									</div>
+								</div> -->
+        <div class="about_line"></div>
+        <h2 style="text-align: center;font-weight: bold;font-size: 23px; font-family:'宋体';">赛事目标</h2>
+        <article class='about_article' style="background-color:rgba(24,101,169,0.28); height:200px;">
+          <div>
+            <p>解决企业需求，企业需求集中发布</p>
+            <p>技术工序精准匹配，揭榜挂帅挑战难题。</p>
+            <p>激发创新活力，创新活力竞相迸发</p>
+            <p>财富源泉充分涌动，万众创新蔚然成风。</p>
+            <p>促进成果转化，增加技术价值发现</p>
+            <p>繁荣技术交易市场，提高资源配置效率。</p>
+          </div>
+        </article>
+      </div>
+      <div class="col-lg-4 col-md-4 animated" data-animation="tada" data-animation-delay="800">
+        <!-- 								<div class="bubble_outer_three">
+									<div class="bubble_container">
+										<div class="bubble"></div>
+										<i class="fa fa-umbrella"></i>
+									</div>
+								</div> -->
+        <div class="about_line"></div>
+        <h2 style="text-align: center;font-weight: bold; font-size: 23px; font-family:'宋体';">比赛事项</h2>
+        <article class='about_article' style="background-color:rgba(24,101,169,0.28); height:200px;">
+          <div>
+            <p>启动时间：2016年7月</p>
+            <p>指导单位：科学技术部</p>
+            <p>承办单位：科学技术部火炬中心</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;地方科技主管部门</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家高新区管委会</p>
+            <p>支持平台：中国创新挑战赛官网</p>
+            <p>奖金：1-20万元不等，奖励现场挑战者</p>
+          </div>
+        </article>
+      </div>
+    </div>
+    <div class="clear"></div>
+
+    <!-- Start Our Team Section -->
+    <div class="second-section">
+      <!-- Header -->
+
+      <article class='about_article'>
+        <h2 style="text-align: center;font-size: 25px; font-weight: bold; font-family:'宋体';">赛事流程</h2>
+      </article>
+      <!-- Second Header -->
+      <div class="description animated" data-animation="slideInLeft" data-animation-delay="0"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+      <div class="row">
+        <ul class="grid cs-style-1">
+          <li class="col-md-3 col-sm-6">
+            <div class="figure"> <img src="images/zcbm.jpg" alt="zcbm" />
+              <div class="figcaption"> <span>注册报名</span>
+                <p>企业</p>
+                <p>团队、个人</p>
+              </div>
+              <h4>注册报名</h4>
+            </div>
+          </li>
+          <li class="col-md-3 col-sm-6">
+            <div class="figure"> <img src="images/xqzj.jpg" alt="xqzj" />
+              <div class="figcaption"> <span>需求征集</span>
+                <p>企业体检</p>
+                <p>需求挖掘</p>
+                <p>需求公示</p>
+              </div>
+              <h4>需求征集</h4>
+            </div>
+          </li>
+          <li class="col-md-3 col-sm-6">
+            <div class="figure"> <img src="images/tzxq.jpg" alt="tzxq" />
+              <div class="figcaption"> <span>挑战需求</span>
+                <p>公开征集</P>
+                <P>评价评估</P>
+                <P>技术对接</p>
+              </div>
+              <h4>挑战需求</h4>
+            </div>
+          </li>
+          <li class="col-md-3 col-sm-6">
+            <div class="figure"> <img src="images/xctz.jpg" alt="xctz" />
+              <div class="figcaption"> <span>现场挑战</span>
+                <p>路演比拼</P>
+                <p>专家评价</P>
+                <p>网络投票</P>
+                <p>现场奖励</P>
+              </div>
+              <h4>现场挑战</h4>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- End inner div -->
+
+</section>
+<!-- End Our Team Section -->
+
+<!-- Start Services Section -->
+
+<section id="services" class="contain nav-link">
+  <div class="inner">
+    <!-- Header -->
+    <div class="header animated scroll" data-animation="slideInRight" data-animation-delay="0" style="background-image:url(images/bghf.jpg)"><span class="twoii"><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/xqgg.html" target="_blank">需求公告</a></span></div>
+    <!-- Second Header -->
+    <div class="description animated" data-animation="slideInLeft" data-animation-delay="0"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div class="row">
+      <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+        <div class="service-box">
+          <div class="wrap"> <span><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/zxdtTzgg1.html" target="_blank"><img src="images/akgg.jpg"></a></span>
+            <!-- End .content -->
+          </div>
+          <!-- End .wrap -->
+        </div>
+        <!-- End .service-box -->
+      </div>
+      <!-- End .col-md-4 col-sm-4 col-xs-6 -->
+      <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+        <div class="service-box">
+          <div class="wrap"> <span><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/cdxqgg.html" target="_blank"><img src="images/cdgg.jpg"></a></span>
+            <!-- End .content -->
+          </div>
+          <!-- End .wrap -->
+        </div>
+        <!-- End .service-box -->
+      </div>
+      <!-- End .col-md-4 col-sm-4 col-xs-6-->
+      <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+        <div class="service-box">
+          <div class="wrap"> <span><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/myxqgg.html" target="_blank"><img src="images/mygg.jpg"></a></span>
+            <!-- End .content -->
+          </div>
+          <!-- End .wrap -->
+        </div>
+        <!-- End .service-box -->
+      </div>
+      <!-- End .col-md-4 col-sm-4 col-xs-6-->
+      <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+        <div class="service-box">
+          <div class="wrap"> <span><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/xaxqgg.html" target="_blank"><img src="images/xagg.jpg"></a></span>
+            <!-- End .content -->
+          </div>
+          <!-- End .wrap -->
+        </div>
+        <!-- End .service-box -->
+      </div>
+      <!-- End .col-md-4 col-sm-4 col-xs-6-->
+      <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+        <div class="service-box">
+          <div class="wrap"> <span><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/bjxqgg.html" target="_blank"><img src="images/bjgg.jpg"></a></span>
+            <!-- End .content -->
+          </div>
+          <!-- End .wrap -->
+        </div>
+        <!-- End .service-box -->
+      </div>
+      <!-- End .col-md-4 col-sm-4 col-xs-6-->
+      <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+        <div class="service-box">
+          <div class="wrap"> <span><a href="http://challenge.chinatorch.gov.cn/xhtml/zxdt/hnxqgg.html" target="_blank"><img src="images/hngg.jpg"></a></span>
+            <!-- End .content -->
+          </div>
+          <!-- End .wrap -->
+        </div>
+        <!-- End .service-box -->
+      </div>
+      <!-- End .col-md-4 col-sm-4 col-xs-6-->
+    </div>
+  </div>
+  <!-- End Services Inner 1 -->
+
+</section>
+<!-- End Services Section -->
+
+<!-- Start Blog Section -->
+<section id="blog" class="contain nav-link">
+  <div class="inner">
+    <div class="contain-logo1 br-b"> <i class="fa fa-chevron-down"></i> </div>
+    <div class="header animated" data-animation="slideInRight" data-animation-delay="0"> 最新动态 </div>
+
+    <!-- Second Header -->
+    <div class="description animated" data-animation="slideInLeft" data-animation-delay="0"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-4 post-item animated" data-animation="bounceIn" data-animation-delay="0">
+        <div class="portfolio-img"> <a href="zxdt/zxdtTzgg4.html" target="_blank"> <img src="images/newstzs1.jpg" class="post-img" alt="newstzs1.jpg"></a> </div>
+        <div class="post-content">
+          <h5>通知公告</h5>
+          <div class="entry"  style="text-align:left; white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+              <ul style="list-style-type:disc;">
+                  <li><a href="zxdt/zxdtTzgg4.html" target="_blank">关于开展第二届中国创新挑战赛相关工作的通知</a></li>
+                  <li><a href="zxdt/zxdtTzgg3.html" target="_blank">中国创新挑战赛官网平台公告</a></li>
+                  <li><a href="zxdt/zxdtTzgg.html" target="_blank">科技部关于开展首届中国创新挑战赛的通知</a></li>
+<!--                   <li><a href="zxdt/zxdtTzgg1.html" target="_blank">首届中国创新挑战赛(安康赛区)技术需求公告</a></li>
+                  <li><a href="zxdt/cdxqgg.html" target="_blank">首届中国创新挑战赛(成都高新区)技术需求公告</a></li> -->
+              </ul>
+         </div>
+          <!--     <div class="post-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-comment"></i>查看详细</a></li>
+                                    </ul>
+                                </div> -->
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4 post-item animated" data-animation="bounceIn" data-animation-delay="150">
+        <div class="portfolio-img"> <a href="zxdt/zxdtXwdt.html" target="_blank"> <img src="images/newsxwdt1.jpg" class="post-img" alt="newsxwdt.jpg"></a> </div>
+        <div class="post-content">
+          <h5>新闻动态</h5>
+          <div class="entry"  style="text-align:left; white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+              <ul style="list-style-type:disc;">
+                  <li><a href="zxdt/zxdtXwdt6.html" target="_blank">首届中国创新挑战赛(湖南)现场赛成功举办</a></li>
+                  <li><a href="zxdt/zxdtXwdt5.html" target="_blank">首届中国创新挑战赛(北京)圆满落幕</a></li>
+                  <li><a href="zxdt/zxdtXwdt4.html" target="_blank">首届中国创新挑战赛(绵阳高新区)现场挑战赛圆满落幕</a></li>
+                  <li><a href="zxdt/zxdtXwdt3.html" target="_blank">首届中国创新挑战赛(成都高新区)现场挑战赛开赛</a></li>
+                  <li><a href="zxdt/zxdtXwdt.html" target="_blank">创新热土宁波迎来首届中国创新挑战赛</a></li>
+                  <li><a href="zxdt/zxdtXwdt1.html" target="_blank">首届中国创新挑战赛举行 各创新团队竞争激烈</a></li>
+              </ul>
+         </div>
+          <!--  <div class="post-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-comment"></i>查看详细</a></li>
+                                    </ul>
+                                </div> -->
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4 post-item animated" data-animation="bounceIn" data-animation-delay="300">
+        <div class="portfolio-img"> <a href="zxdt/zxdtMtbd3.html" target="_blank"> <img src="images/bjxq2.jpg" class="post-img" alt="bjxq2.jpg"></a> </div>
+        <div class="post-content">
+          <h5>媒体报道</h5>
+          <div class="entry"  style="text-align:left; white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+              <ul style="list-style-type:disc; text-overflow: ellipsis;">
+                  <li><a href="zxdt/zxdtMtbd3.html" target="_blank">中国创新挑战赛(北京赛区)创新需求发布会召开</a></li>
+                  <li><a href="zxdt/zxdtMtbd2.html" target="_blank">首批北汽集团技术攻关项目发布</a></li>
+                  <li><a href="zxdt/zxdtMtbd.html" target="_blank">首届中国创新挑战赛（宁波赛区）启动</a></li>
+                  <li><a href="zxdt/zxdtMtbd1.html" target="_blank">首届中国创新挑战赛（宁波赛区）总决赛开幕</a></li>
+              </ul>
+         </div>
+          <!-- <div class="post-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-comment"></i>查看详细</a></li>
+                                    </ul>
+                                </div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Blog Section -->
+
+<section id="portfolio" class="contain nav-link">
+  <div class="inner">
+
+    <!-- Portfolio -->
+    <div class="contain-logo1 br"> <i class="fa fa-chevron-down"></i> </div>
+
+    <!-- Header -->
+    <div class="header animated" data-animation="slideInRight" data-animation-delay="0"> 大赛花絮 </div>
+
+    <!-- Second Header -->
+    <div class="description animated" data-animation="slideInLeft" data-animation-delay="0"> </div>
+    <div class="works">
+
+      <!-- 					<div id="options" class="filter-menu inline animated" data-animation="slideInRight" data-animation-delay="0">
+						<ul id="filters" class="filters option-set" data-option-key="filter">
+							<li><a href="#filter" data-option-value="*" class="selected">全部</a></li>
+							<li><a href="#filter" data-option-value=".design">众创空间</a></li>
+							<li><a href="#filter" data-option-value=".photography">创新平台</a></li>
+							<li><a href="#filter" data-option-value=".branding">技术服务</a></li>
+							<li><a href="#filter" data-option-value=".web">孵化器</a></li>
+						</ul>
+					</div> -->
+      <div class="row">
+        <div class="items ">
+          <div class="work col-xs-4 web photography">
+            <div class="portfolio-inner animated" data-animation="pulse" data-animation-delay="0">
+              <div class="portfolio-img"> <a href="images/hx1.jpg" target="_blank"><img src="images/hx1.jpg" alt="hx1.jpg" /></a> </div>
+              <!-- 		<div class="portfolio-desc">
+									<h4>图片标题</h4>
+									<p>图片简介：中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛</p>
+								</div> -->
+            </div>
+          </div>
+          <div class="work col-xs-4 photography design">
+            <div class="portfolio-inner animated" data-animation="pulse" data-animation-delay="50">
+              <div class="portfolio-img"> <a href="images/hx2.jpg" target="_blank"><img src="images/hx2.jpg" alt="hx2.jpg" /></a> </div>
+              <!-- 							<div class="portfolio-desc">
+									<h4>图片标题</h4>
+									<p>图片简介：中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛</p>
+								</div> -->
+            </div>
+          </div>
+          <div class="work col-xs-4 web photography design ">
+            <div class="portfolio-inner animated" data-animation="pulse" data-animation-delay="100">
+              <div class="portfolio-img"> <a href="images/hx3.jpg" target="_blank"><img src="images/hx3.jpg" alt="hx3.jpg" /></a> </div>
+              <!-- 		<div class="portfolio-desc">
+									<h4>图片标题</h4>
+									<p>图片简介：中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛</p>
+								</div> -->
+            </div>
+          </div>
+          <div class="work col-xs-4 design web ">
+            <div class="portfolio-inner animated" data-animation="pulse" data-animation-delay="150">
+              <div class="portfolio-img"> <a href="images/hx4.jpg" target="_blank"><img src="images/hx4.jpg" alt="hx4.jpg" /></a> </div>
+              <!-- <div class="portfolio-desc">
+									<h4>图片标题</h4>
+									<p>图片简介：中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛</p>
+								</div> -->
+            </div>
+          </div>
+          <div class="work col-xs-4 design photography ">
+            <div class="portfolio-inner animated" data-animation="pulse" data-animation-delay="200">
+              <div class="portfolio-img"> <a href="images/hx5.jpg" target="_blank"><img src="images/hx5.jpg" alt="hx5.jpg" /></a> </div>
+              <!-- <div class="portfolio-desc">
+									<h4>图片标题</h4>
+									<p>图片简介：中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛</p>
+								</div> -->
+            </div>
+          </div>
+          <div class="work col-xs-4 web branding ">
+            <div class="portfolio-inner animated" data-animation="pulse" data-animation-delay="250">
+              <div class="portfolio-img"> <a href="images/hx6.jpg" target="_blank"><img src="images/hx6.jpg" alt="hx6.jpg" /></a> </div>
+              <!-- <div class="portfolio-desc">
+									<h4>图片标题</h4>
+									<p>图片简介：中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛中国创新挑战赛</p>
+								</div> -->
+            </div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Start Contact Section -->
+<section id="contact" class="contain nav-link">
+  <div class="contain-logo1 br"> <i class="fa fa-chevron-down"></i> </div>
+
+  <!-- Header -->
+  <div class="header animated" data-animation="slideInRight" data-animation-delay="0"> 国家区域创新云图 </div>
+
+  <!-- Second Header -->
+  <div class="description animated" data-animation="slideInLeft" data-animation-delay="0"> </div>
+
+  <!--Gmap
+					<section class="gmap_outer">
+						<div id="map-canvas"></div>
+					</section>
+					Gmap END-->
+
+  <!-- col-md-8 col-sm-8 col-xs-12 -->
+  <div class="col-md-8 col-sm-8 col-xs-12 animated" data-animation="rollIn" data-animation-delay="0">
+    <div class="contact-form"> <a href="images/cxdtbig1.jpg" target="_blank"><img src="images/cxdt1.jpg" width="500" height="327""></a>
+      <div id="response" style="padding-left:210px; margin-top: 30px;"> <a href="http://storage.chinahightech.com/cxtzs/images/cxdtbig1.jpg" target="_blank"><span style="font-size:16px; font-weight:bold; color:red;">点击放大</span></a></div>
+    </div>
+  </div>
+  <!-- /col-md-8 col-sm-8 col-xs-12 -->
+
+  <!-- /col-md-4 col-sm-4 col-xs-12 -->
+  <div class="col-md-4 col-sm-4 col-xs-12 animated" data-animation="rollIn" data-animation-delay="200">
+    <div class="contact-form"> <a href="cxdt/dt.html" target="_blank"><img src="images/cxdt2.jpg" alt="区域创新云图" width="500" height="327"></a>
+      <div id="response" style="padding-left:180px; margin-top: 30px;"><a href="cxdt/dt.html" target="_blank"> <span style="font-size: 16px; font-weight:bold; color:red;">点击查询</a></span></div>
+    </div>
+  </div>
+  <!-- /col-md-4 col-sm-4 col-xs-12 -->
+
+  <div class="clear"></div>
+</section>
+<!-- End Contact Section -->
+
+<!-- Start Services Section
+    <section id="services" class="contain nav-link">
+            <div class="inner services">
+                <div class="contain-logo1 br">
+                    <i class="fa fa-chevron-down"></i>
+                </div>
+                <div class="header animated" data-animation="slideInRight" data-animation-delay="0">
+                    注册报名
+                </div>
+                <div class="description animated" data-animation="slideInLeft" data-animation-delay="0">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </div>
+                <div class="row">
+              <div class="col-md-4 col-sm-4 col-xs-6 animated" data-animation="rollIn" data-animation-delay="0">
+            </div>
+        </div>
+    </div>
+    </section>  End Services Section -->
+
+<div class="clear"></div>
+<!-- Footer Section -->
+<section id="footer">
+  <div class="inner footer">
+
+    <!-- Socials Media -->
+    <div class="col-xs-12 footer-box animated" data-animation="tada" data-animation-delay="0">
+      <h1 style="font-size:18px; color:#FFF;">科学技术部火炬高技术产业开发中心</h1>
+
+      <!-- Copyright -->
+      <p class="footer-text copyright"> 地址：北京市西城区三里河二区甲18号 | 邮编：100045 | 联系电话：010-88656100 | 传真：010-88656124 | E-mail：innoweb@chinatorch.gov.cn</p>
+      <a href="http://www.miibeian.gov.cn/" target="_blank" title="备案">京ICP备13019302号-1</a> -<img src="images/beian.png"> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202000532" title="备案" target="_blank">京公网安备11010202000532号</a>
+      </p>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <!-- End Footer inner -->
+
+</section>
+<!-- End Footer Section -->
+<!-- JavaScript Files -->
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.appear.js"></script>
+<script type="text/javascript" src="js/waypoints.min.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/modernizr-latest.js"></script>
+<script type="text/javascript" src="js/SmoothScroll.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.superslides.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="js/jquery.sticky.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/toucheffects.js"></script>
+
+<!-- End JavaScript Files -->
+</body>
+</html>
